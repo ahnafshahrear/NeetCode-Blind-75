@@ -17,7 +17,7 @@
 
 
 ### Binary Search (2)
-- **[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)**
+- **[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) ✓**
 - **[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)**
 
 
