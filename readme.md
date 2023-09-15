@@ -35,7 +35,9 @@
 
 
 ### Tries (3)
-- **[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) • [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) • [Word Search II](https://leetcode.com/problems/word-search-ii/description/)**
+- **[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)**
+- **[Word Search II](https://leetcode.com/problems/word-search-ii/description/)**
+- **[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)**
 
 
 ### Heap / Priority Queue (1)
