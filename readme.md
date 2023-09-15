@@ -34,5 +34,48 @@
 - **[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) • [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)**
 
 
-### ()
+### Tries (3)
+- **[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) • [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) • [Word Search II](https://leetcode.com/problems/word-search-ii/description/)**
+
+
+### Heap / Priority Queue (1)
+- **[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)**
+
+
+### Backtracking (2)
+- **[Combination Sum](https://leetcode.com/problems/combination-sum/description/) ✓ • [Word Search](https://leetcode.com/problems/word-search/description/) ✓**
+
+
+### Graphs (6)
+
+
+### Advanced Graphs (1)
+- **[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)**
+
+
+### One Dimensional Dynamic Programming (10)
+- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+
+
+### Two Dimensional Dynamic Programming (2)
+- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+
+
+### Greedy (2)
+- **[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) ✓ • [Jump Game](https://leetcode.com/problems/jump-game/description/) ✓**
+
+
+### Intervals (5)
+- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+
+
+### Math & Geometry (3)
+- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+
+
+### Bit Manipulation (5)
+- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+
+
+
 - **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
