@@ -59,7 +59,7 @@
 
 
 ### One Dimensional Dynamic Programming (10)
-- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+- **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) ✓ • [House Robber](https://leetcode.com/problems/house-robber/description/) ✓ • [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) ✓ • [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) ✓ • [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) ✓**
 
 
 ### Two Dimensional Dynamic Programming (2)
