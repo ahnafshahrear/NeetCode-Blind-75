@@ -59,7 +59,9 @@
 
 
 ### One Dimensional Dynamic Programming (10)
-- **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) ✓ • [House Robber](https://leetcode.com/problems/house-robber/description/) ✓ • [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) ✓ • [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) ✓ • [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) ✓**
+- **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) ✓ • [House Robber](https://leetcode.com/problems/house-robber/description/) ✓ • [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) ✓ • [Decode Ways](https://leetcode.com/problems/decode-ways/description/) ✓ • [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) ✓**
+- **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) ✓ • [Coin Change](https://leetcode.com/problems/coin-change/description/) ✓**
+- **[Word Break](https://leetcode.com/problems/word-break/) ✓ • [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) • [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) ✓**
 
 
 ### Two Dimensional Dynamic Programming (2)
