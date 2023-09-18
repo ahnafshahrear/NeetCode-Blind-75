@@ -78,12 +78,8 @@
 
 
 ### Math & Geometry (3)
-- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+- **[Rotate Image](https://leetcode.com/problems/rotate-image/description/) • [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) • [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)**
 
 
 ### Bit Manipulation (5)
-- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
-
-
-
-- **[]() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓ • []() ✓**
+- **[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) ✓ • [Counting Bits](https://leetcode.com/problems/counting-bits/description/) ✓ • [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) ✓ • [Missing Number](https://leetcode.com/problems/missing-number/description/) ✓ • [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)**
