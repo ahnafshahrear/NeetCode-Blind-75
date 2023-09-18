@@ -70,11 +70,13 @@
 
 
 ### Greedy (2)
-- **[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) ✓ • [Jump Game](https://leetcode.com/problems/jump-game/description/) ✓**
+- **[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) ✓**
+- **[Jump Game](https://leetcode.com/problems/jump-game/description/) ✓**
 
 
 ### Intervals (5)
-- **[Insert Interval](https://leetcode.com/problems/insert-interval/description/) • [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) • [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) • [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) • [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)**
+- **[Insert Interval](https://leetcode.com/problems/insert-interval/description/) • [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) • [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)**
+- **[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) • [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)**
 
 
 ### Math & Geometry (3)
@@ -82,4 +84,7 @@
 
 
 ### Bit Manipulation (5)
-- **[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) ✓ • [Counting Bits](https://leetcode.com/problems/counting-bits/description/) ✓ • [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) ✓ • [Missing Number](https://leetcode.com/problems/missing-number/description/) ✓ • [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)**
+- **[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) ✓ • [Counting Bits](https://leetcode.com/problems/counting-bits/description/) ✓**
+- **[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) ✓**
+- **[Missing Number](https://leetcode.com/problems/missing-number/description/) ✓**
+- **[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)**
