@@ -45,7 +45,8 @@
 
 
 ### Backtracking (2)
-- **[Combination Sum](https://leetcode.com/problems/combination-sum/description/) ✓ • [Word Search](https://leetcode.com/problems/word-search/description/) ✓**
+- **[Combination Sum](https://leetcode.com/problems/combination-sum/description/) ✓**
+- **[Word Search](https://leetcode.com/problems/word-search/description/) ✓**
 
 
 ### Graphs (6)
