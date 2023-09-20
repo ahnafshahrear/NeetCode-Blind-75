@@ -23,7 +23,7 @@
 
 ### Linked List (6)
 - **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) ✓ • [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) • [Reorder List](https://leetcode.com/problems/reorder-list/description/)**
-- **[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) • [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) • [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)**
+- **[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) • [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) ✓ • [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)**
 
 
 ### Trees (11)
