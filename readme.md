@@ -51,7 +51,7 @@
 
 ### Graphs (6)
 - **[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) ✓ • [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)**
-- **[Clone Graph](https://leetcode.com/problems/clone-graph/description/) • [Course Schedule](https://leetcode.com/problems/course-schedule/description/)**
+- **[Clone Graph](https://leetcode.com/problems/clone-graph/description/) • [Course Schedule](https://leetcode.com/problems/course-schedule/description/) ✓**
 - **[Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) • [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/)**
 
 
