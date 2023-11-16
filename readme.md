@@ -81,7 +81,7 @@
 
 
 ### Math & Geometry (3)
-- **[Rotate Image](https://leetcode.com/problems/rotate-image/description/) • [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) • [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)**
+- **[Rotate Image](https://leetcode.com/problems/rotate-image/description/) ✓ • [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) • [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)**
 
 
 ### Bit Manipulation (5)
