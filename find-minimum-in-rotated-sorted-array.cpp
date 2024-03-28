@@ -3,6 +3,7 @@ public:
     int findMin(vector<int> &nums) 
     {
         int low = 0, high = nums.size() - 1;
+        
         while (high - low > 1)
         {
             int mid = (high + low) >> 1;
@@ -17,6 +18,7 @@ public:
             }
             else low = mid;
         }
+        
         if (nums[low] > nums[high])
         {
             return nums[high];
