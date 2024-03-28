@@ -3,7 +3,6 @@ public:
     void rotate(vector<vector<int>> &matrix) 
     {
         int size = matrix.size();
-        
         for (int i = 0; i < size; i++)
         {
             for (int j = i; j < size; j++)
