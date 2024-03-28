@@ -14,7 +14,10 @@ public:
             fast = fast->next;
         }
 
-        if (fast == nullptr) return head->next;
+        if (fast == nullptr) 
+        {
+            return head->next;
+        }
 
         while (fast->next)
         {
