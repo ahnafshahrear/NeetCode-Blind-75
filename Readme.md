@@ -1,5 +1,8 @@
 # NeetCode Blind 75
-**Blind 75 is a popular list of algorithm practice problems. This list is from [neetcodeio](https://neetcode.io/practice)**
+***[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear) - Computer Science & Engineering, University of Rajshahi***
+
+### Description
+**Blind 75 is a popular list of algorithm practice problems. This list is from [neetcodeio](https://neetcode.io/practice) Blind 75**
 
 ### Arrays & Hashing (8)
 - **[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) ✓ • [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) ✓ • [Two Sum](https://leetcode.com/problems/two-sum/description/) ✓ • [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) ✓ • [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) ✓**
